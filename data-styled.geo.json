@@ -8,7 +8,7 @@
         "emitterId": "em-1",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -23,9 +23,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-2",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -40,9 +40,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-3",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -57,9 +57,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-4",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -74,9 +74,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-5",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -91,9 +91,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-6",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -108,9 +108,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-7",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +127,7 @@
         "emitterId": "em-8",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -142,9 +142,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-9",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +161,7 @@
         "emitterId": "em-10",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +178,7 @@
         "emitterId": "em-11",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +195,7 @@
         "emitterId": "em-12",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -210,9 +210,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-13",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -227,9 +227,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-14",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -244,9 +244,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-15",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "emitterId": "em-16",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +280,7 @@
         "emitterId": "em-17",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -295,9 +295,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-18",
-        "marker-color": "#00931c",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -312,9 +312,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-19",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -329,9 +329,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-20",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -346,9 +346,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-21",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +365,7 @@
         "emitterId": "em-22",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -380,9 +380,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-23",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -397,9 +397,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-24",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -414,9 +414,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-25",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -431,9 +431,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-26",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +450,7 @@
         "emitterId": "em-27",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -465,9 +465,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-28",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +484,7 @@
         "emitterId": "em-29",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@
         "emitterId": "em-30",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -516,9 +516,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-31",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +535,7 @@
         "emitterId": "em-32",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -550,9 +550,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-33",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -567,9 +567,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-34",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -584,9 +584,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-35",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -601,9 +601,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-36",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +620,7 @@
         "emitterId": "em-37",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -635,9 +635,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-38",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@
         "emitterId": "em-39",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +671,7 @@
         "emitterId": "em-40",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -686,9 +686,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-41",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +705,7 @@
         "emitterId": "em-42",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -722,7 +722,7 @@
         "emitterId": "em-43",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +739,7 @@
         "emitterId": "em-44",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -754,9 +754,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-45",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +773,7 @@
         "emitterId": "em-46",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -788,9 +788,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-47",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -805,9 +805,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-48",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -822,9 +822,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-49",
-        "marker-color": "#f9f600",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +841,7 @@
         "emitterId": "em-50",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -856,9 +856,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-51",
-        "marker-color": "#f9f600",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +875,7 @@
         "emitterId": "em-52",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +892,7 @@
         "emitterId": "em-53",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -909,7 +909,7 @@
         "emitterId": "em-54",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -924,9 +924,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-55",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +943,7 @@
         "emitterId": "em-56",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -958,9 +958,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-57",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -977,7 +977,7 @@
         "emitterId": "em-58",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -992,9 +992,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-59",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1011,7 @@
         "emitterId": "em-60",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1026,9 +1026,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-61",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1043,9 +1043,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-62",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1060,9 +1060,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-63",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +1079,7 @@
         "emitterId": "em-64",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1096,7 +1096,7 @@
         "emitterId": "em-65",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1113,7 +1113,7 @@
         "emitterId": "em-66",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1130,7 +1130,7 @@
         "emitterId": "em-67",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1147,7 +1147,7 @@
         "emitterId": "em-68",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1162,9 +1162,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-69",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1181,7 @@
         "emitterId": "em-70",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1196,9 +1196,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-71",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1213,9 +1213,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-72",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1232,7 +1232,7 @@
         "emitterId": "em-73",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1249,7 +1249,7 @@
         "emitterId": "em-74",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1266,7 @@
         "emitterId": "em-75",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1281,9 +1281,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-76",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1298,9 +1298,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-77",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1315,9 +1315,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-78",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1334,7 @@
         "emitterId": "em-79",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1351,7 +1351,7 @@
         "emitterId": "em-80",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1368,7 +1368,7 @@
         "emitterId": "em-81",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1383,9 +1383,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-82",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1400,9 +1400,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-83",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1419,7 +1419,7 @@
         "emitterId": "em-84",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1434,9 +1434,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-85",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1451,9 +1451,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-86",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1470,7 +1470,7 @@
         "emitterId": "em-87",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1485,9 +1485,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-88",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1504,7 +1504,7 @@
         "emitterId": "em-89",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1519,9 +1519,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-90",
-        "marker-color": "#ac0000",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1536,9 +1536,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-91",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1555,7 +1555,7 @@
         "emitterId": "em-92",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1572,7 +1572,7 @@
         "emitterId": "em-93",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1589,7 +1589,7 @@
         "emitterId": "em-94",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1606,7 +1606,7 @@
         "emitterId": "em-95",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1623,7 +1623,7 @@
         "emitterId": "em-96",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1638,9 +1638,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-97",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1655,9 +1655,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-98",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1674,7 +1674,7 @@
         "emitterId": "em-99",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1689,9 +1689,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-100",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1708,7 +1708,7 @@
         "emitterId": "em-101",
         "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1723,9 +1723,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-102",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1742,7 +1742,7 @@
         "emitterId": "em-103",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1757,9 +1757,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-104",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1776,7 @@
         "emitterId": "em-105",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1791,9 +1791,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-106",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1810,7 +1810,7 @@
         "emitterId": "em-107",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1825,9 +1825,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-108",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1844,7 +1844,7 @@
         "emitterId": "em-109",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1861,7 +1861,7 @@
         "emitterId": "em-110",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1878,7 +1878,7 @@
         "emitterId": "em-111",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +1895,7 @@
         "emitterId": "em-112",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1912,7 +1912,7 @@
         "emitterId": "em-113",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1927,9 +1927,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-114",
-        "marker-color": "#ac0000",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1944,9 +1944,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-115",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1963,7 +1963,7 @@
         "emitterId": "em-116",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1980,7 +1980,7 @@
         "emitterId": "em-117",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -1995,9 +1995,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-118",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2014,7 +2014,7 @@
         "emitterId": "em-119",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2029,9 +2029,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-120",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2046,9 +2046,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-121",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2065,7 +2065,7 @@
         "emitterId": "em-122",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2080,9 +2080,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-123",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2099,7 +2099,7 @@
         "emitterId": "em-124",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2114,9 +2114,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-125",
-        "marker-color": "#ac0000",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2131,9 +2131,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-126",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2148,9 +2148,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-127",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2165,9 +2165,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-128",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2182,9 +2182,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-129",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2201,7 +2201,7 @@
         "emitterId": "em-130",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2218,7 +2218,7 @@
         "emitterId": "em-131",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2233,9 +2233,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-132",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2250,9 +2250,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-133",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2267,9 +2267,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-134",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2286,7 @@
         "emitterId": "em-135",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2301,9 +2301,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-136",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2318,9 +2318,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-137",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2335,9 +2335,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-138",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2352,9 +2352,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-139",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2371,7 +2371,7 @@
         "emitterId": "em-140",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2388,7 +2388,7 @@
         "emitterId": "em-141",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2405,7 +2405,7 @@
         "emitterId": "em-142",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2422,7 +2422,7 @@
         "emitterId": "em-143",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +2439,7 @@
         "emitterId": "em-144",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2454,9 +2454,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-145",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2471,9 +2471,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-146",
-        "marker-color": "#00931c",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2488,9 +2488,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-147",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2505,9 +2505,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-148",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2522,9 +2522,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-149",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "emitterId": "em-150",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2556,9 +2556,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-151",
-        "marker-color": "#00931c",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2573,9 +2573,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-152",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2592,7 +2592,7 @@
         "emitterId": "em-153",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2609,7 +2609,7 @@
         "emitterId": "em-154",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2626,7 +2626,7 @@
         "emitterId": "em-155",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2643,7 +2643,7 @@
         "emitterId": "em-156",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2658,9 +2658,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-157",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2675,9 +2675,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-158",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2692,9 +2692,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-159",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2709,9 +2709,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-160",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2726,9 +2726,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-161",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2745,7 +2745,7 @@
         "emitterId": "em-162",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2760,9 +2760,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-163",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2779,7 +2779,7 @@
         "emitterId": "em-164",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2794,9 +2794,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-165",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2811,9 +2811,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-166",
-        "marker-color": "#00931c",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2830,7 +2830,7 @@
         "emitterId": "em-167",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2845,9 +2845,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-168",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2862,9 +2862,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-169",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2879,9 +2879,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-170",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2898,7 +2898,7 @@
         "emitterId": "em-171",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2915,7 +2915,7 @@
         "emitterId": "em-172",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2930,9 +2930,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-173",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2949,7 +2949,7 @@
         "emitterId": "em-174",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2966,7 +2966,7 @@
         "emitterId": "em-175",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2981,9 +2981,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-176",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -2998,9 +2998,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-177",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3017,7 +3017,7 @@
         "emitterId": "em-178",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3032,9 +3032,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-179",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3051,7 @@
         "emitterId": "em-180",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3068,7 +3068,7 @@
         "emitterId": "em-181",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3085,7 +3085,7 @@
         "emitterId": "em-182",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3100,9 +3100,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-183",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3117,9 +3117,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-184",
-        "marker-color": "#00931c",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3134,9 +3134,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-185",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3151,9 +3151,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-186",
-        "marker-color": "#f9f600",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3168,9 +3168,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-187",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3185,9 +3185,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-188",
-        "marker-color": "#f9f600",
+        "marker-color": "#ac0000",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3204,7 +3204,7 @@
         "emitterId": "em-189",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3221,7 +3221,7 @@
         "emitterId": "em-190",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3236,9 +3236,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-191",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3255,7 +3255,7 @@
         "emitterId": "em-192",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3270,9 +3270,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-193",
-        "marker-color": "#ac0000",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3289,7 +3289,7 @@
         "emitterId": "em-194",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3306,7 @@
         "emitterId": "em-195",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3321,9 +3321,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-196",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3340,7 +3340,7 @@
         "emitterId": "em-197",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3357,7 +3357,7 @@
         "emitterId": "em-198",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3374,7 @@
         "emitterId": "em-199",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3391,7 +3391,7 @@
         "emitterId": "em-200",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3408,7 +3408,7 @@
         "emitterId": "em-201",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3423,9 +3423,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-202",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3442,7 +3442,7 @@
         "emitterId": "em-203",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3459,7 +3459,7 @@
         "emitterId": "em-204",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3476,7 +3476,7 @@
         "emitterId": "em-205",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3491,9 +3491,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-206",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3508,9 +3508,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-207",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3525,9 +3525,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-208",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3544,7 +3544,7 @@
         "emitterId": "em-209",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3559,9 +3559,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-210",
-        "marker-color": "#ac0000",
+        "marker-color": "#dedc1c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3578,7 +3578,7 @@
         "emitterId": "em-211",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3595,7 +3595,7 @@
         "emitterId": "em-212",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3612,7 +3612,7 @@
         "emitterId": "em-213",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3629,7 +3629,7 @@
         "emitterId": "em-214",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3644,9 +3644,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-215",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3663,7 +3663,7 @@
         "emitterId": "em-216",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3678,9 +3678,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-217",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3695,9 +3695,9 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-218",
-        "marker-color": "#f9f600",
+        "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -3714,7 +3714,7 @@
         "emitterId": "em-219",
         "marker-color": "#00931c",
         "marker-size": "small",
-        "marker-symbol": "cross"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
