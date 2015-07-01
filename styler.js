@@ -17,7 +17,7 @@ _.each(data.features, function(d){
     	color = RED;
     d.properties['marker-color'] = color;
     d.properties['marker-size'] = 'small';
-    d.properties ['marker-symbol'] = 's';  
+    //d.properties ['marker-symbol'] = 's';  
 });
 
 
