@@ -6,7 +6,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-1",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -23,7 +23,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-2",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -57,7 +57,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-4",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -91,7 +91,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-6",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -108,7 +108,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-7",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -125,7 +125,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-8",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -142,7 +142,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-9",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -159,7 +159,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-10",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -176,7 +176,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-11",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -193,7 +193,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-12",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -210,7 +210,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-13",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -227,7 +227,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-14",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -244,7 +244,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-15",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -261,7 +261,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-16",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -278,7 +278,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-17",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -295,7 +295,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-18",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -312,7 +312,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-19",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -346,7 +346,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-21",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -363,7 +363,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-22",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -397,7 +397,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-24",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -414,7 +414,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-25",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -431,7 +431,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-26",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -448,7 +448,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-27",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -482,7 +482,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-29",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -499,7 +499,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-30",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -516,7 +516,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-31",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -533,7 +533,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-32",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -550,7 +550,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-33",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -567,7 +567,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-34",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -584,7 +584,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-35",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -601,7 +601,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-36",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -618,7 +618,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-37",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -635,7 +635,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-38",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -652,7 +652,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-39",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -669,7 +669,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-40",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -686,7 +686,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-41",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -703,7 +703,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-42",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -720,7 +720,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-43",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -737,7 +737,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-44",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -754,7 +754,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-45",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -771,7 +771,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-46",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -805,7 +805,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-48",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -822,7 +822,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-49",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -839,7 +839,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-50",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -856,7 +856,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-51",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -873,7 +873,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-52",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -890,7 +890,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-53",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -907,7 +907,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-54",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -924,7 +924,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-55",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -941,7 +941,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-56",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -958,7 +958,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-57",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -975,7 +975,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-58",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -992,7 +992,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-59",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1009,7 +1009,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-60",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1026,7 +1026,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-61",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1043,7 +1043,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-62",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1060,7 +1060,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-63",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1077,7 +1077,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-64",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1094,7 +1094,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-65",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1111,7 +1111,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-66",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1128,7 +1128,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-67",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1145,7 +1145,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-68",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1179,7 +1179,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-70",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1213,7 +1213,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-72",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1230,7 +1230,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-73",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1247,7 +1247,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-74",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1264,7 +1264,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-75",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1281,7 +1281,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-76",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1298,7 +1298,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-77",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1315,7 +1315,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-78",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1332,7 +1332,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-79",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1349,7 +1349,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-80",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1366,7 +1366,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-81",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1400,7 +1400,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-83",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1417,7 +1417,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-84",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1434,7 +1434,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-85",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1468,7 +1468,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-87",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1502,7 +1502,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-89",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1553,7 +1553,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-92",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1570,7 +1570,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-93",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1587,7 +1587,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-94",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1604,7 +1604,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-95",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1621,7 +1621,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-96",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1655,7 +1655,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-98",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1672,7 +1672,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-99",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1689,7 +1689,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-100",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1740,7 +1740,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-103",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1757,7 +1757,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-104",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1774,7 +1774,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-105",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1791,7 +1791,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-106",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1808,7 +1808,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-107",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1842,7 +1842,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-109",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1859,7 +1859,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-110",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1876,7 +1876,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-111",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1893,7 +1893,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-112",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1910,7 +1910,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-113",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1944,7 +1944,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-115",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1961,7 +1961,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-116",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -1978,7 +1978,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-117",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2012,7 +2012,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-119",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2063,7 +2063,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-122",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2080,7 +2080,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-123",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2097,7 +2097,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-124",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2131,7 +2131,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-126",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2148,7 +2148,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-127",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2182,7 +2182,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-129",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2199,7 +2199,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-130",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2216,7 +2216,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-131",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2233,7 +2233,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-132",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2250,7 +2250,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-133",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2284,7 +2284,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-135",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2301,7 +2301,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-136",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2318,7 +2318,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-137",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2335,7 +2335,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-138",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2352,7 +2352,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-139",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2369,7 +2369,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-140",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2386,7 +2386,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-141",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2403,7 +2403,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-142",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2420,7 +2420,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-143",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2437,7 +2437,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-144",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2454,7 +2454,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-145",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2471,7 +2471,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-146",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2488,7 +2488,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-147",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2505,7 +2505,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-148",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2539,7 +2539,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-150",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2556,7 +2556,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-151",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2573,7 +2573,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-152",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2590,7 +2590,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-153",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2607,7 +2607,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-154",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2624,7 +2624,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-155",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2641,7 +2641,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-156",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2675,7 +2675,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-158",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2692,7 +2692,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-159",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2709,7 +2709,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-160",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2726,7 +2726,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-161",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2743,7 +2743,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-162",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2760,7 +2760,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-163",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2777,7 +2777,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-164",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2811,7 +2811,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-166",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2828,7 +2828,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-167",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2845,7 +2845,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-168",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2862,7 +2862,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-169",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2879,7 +2879,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-170",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2896,7 +2896,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-171",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2913,7 +2913,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-172",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2947,7 +2947,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-174",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2964,7 +2964,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-175",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -2981,7 +2981,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-176",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3015,7 +3015,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-178",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3049,7 +3049,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-180",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3066,7 +3066,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-181",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3083,7 +3083,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-182",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3117,7 +3117,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-184",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3134,7 +3134,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-185",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3151,7 +3151,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-186",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3185,7 +3185,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-188",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3202,7 +3202,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-189",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3219,7 +3219,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-190",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3236,7 +3236,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-191",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3253,7 +3253,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-192",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3287,7 +3287,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-194",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3304,7 +3304,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-195",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3321,7 +3321,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-196",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3338,7 +3338,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-197",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3355,7 +3355,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-198",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3372,7 +3372,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-199",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3389,7 +3389,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-200",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3406,7 +3406,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-201",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3423,7 +3423,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-202",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3440,7 +3440,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-203",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3457,7 +3457,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-204",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3474,7 +3474,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-205",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3491,7 +3491,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-206",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3508,7 +3508,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-207",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3542,7 +3542,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-209",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3576,7 +3576,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-211",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3593,7 +3593,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-212",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3610,7 +3610,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-213",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3627,7 +3627,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-214",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3644,7 +3644,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-215",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3661,7 +3661,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-216",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3678,7 +3678,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-217",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3695,7 +3695,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-218",
-        "marker-color": "#ac0000",
+        "marker-color": "#f9f600",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
@@ -3712,7 +3712,7 @@
       "properties": {
         "railway": "switch",
         "emitterId": "em-219",
-        "marker-color": "#ac0000",
+        "marker-color": "#00931c",
         "marker-size": "small",
         "marker-symbol": "cross"
       },
