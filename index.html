@@ -46,7 +46,7 @@
     <script type="text/javascript">
     (function () {
         var extent, scale,
-            classes = 5, scheme_id = "YlGn",
+            classes = 9, scheme_id = "RdYlGn",
             reverse = false;
             scheme = colorbrewer[scheme_id][classes],
             container = L.DomUtil.get('map'),
@@ -106,7 +106,7 @@
                         .domain(reverse ? extent.reverse() : extent)
                         .range(d3.range(classes));
             }
-            circles.attr('opacity', 0.4)
+            circles.attr('opacity', 0.3)
                 .attr('stroke', scheme[classes - 1])
                 .attr('stroke-width', 1)
                 .attr('fill', get_color);

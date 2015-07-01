@@ -5,8 +5,8 @@ var Fs = require('fs');
 _.each(data.features, function(d){
     d.properties.emitterId = _.uniqueId('em-');
     d.properties.railway;
-    d.properties['marker-color'] = '#eee';
-    d.properties['marker-size'] = 'medium';
+    d.properties['marker-color'] = '#ac0000';
+    d.properties['marker-size'] = 'small';
     d.properties ['marker-symbol'] = 'cross';    
 });
 
