@@ -1,0 +1,3728 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-1",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574739,
+          48.8871678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-2",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579036,
+          48.8874796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-3",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573851,
+          48.8871597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-4",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575279,
+          48.887163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-5",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3567759,
+          48.8845906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-6",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574079,
+          48.8867993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-7",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571703,
+          48.8863601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-8",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573277,
+          48.8866978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-9",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578601,
+          48.8871607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-10",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574015,
+          48.8858874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-11",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576442,
+          48.8860807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-12",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357255,
+          48.8871859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-13",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573063,
+          48.8863654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-14",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572513,
+          48.8855469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-15",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570283,
+          48.8855675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-16",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573063,
+          48.8863654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-17",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572245,
+          48.8859138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-18",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573537,
+          48.8859108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-19",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572527,
+          48.8863562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-20",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580939,
+          48.8849343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-21",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358024,
+          48.885298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-22",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570929,
+          48.8859213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-23",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575413,
+          48.8854334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-24",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573532,
+          48.8855065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-25",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574528,
+          48.8849819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-26",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574873,
+          48.8854306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-27",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573303,
+          48.8838438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-28",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579755,
+          48.8852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-29",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580429,
+          48.8849413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-30",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8855312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-31",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579755,
+          48.8852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-32",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564418,
+          48.8840133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-33",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564418,
+          48.8840133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-34",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572969,
+          48.8851767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-35",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576084,
+          48.8855039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-36",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3569776,
+          48.8850649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-37",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3567759,
+          48.8845906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-38",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577759,
+          48.8831445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-39",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3569776,
+          48.8850649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-40",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579917,
+          48.8868542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-41",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579204,
+          48.8871592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-42",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579769,
+          48.884434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-43",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573621,
+          48.8851922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-44",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357255,
+          48.8871859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-45",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573851,
+          48.8871597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-46",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3569199,
+          48.8846043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-47",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578375,
+          48.8868178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-48",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579917,
+          48.8868542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-49",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572355,
+          48.8846682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-50",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575367,
+          48.8867308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-51",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572527,
+          48.8863562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-52",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574739,
+          48.8871678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-53",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571855,
+          48.8871885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-54",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574079,
+          48.8867993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-55",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574015,
+          48.8858874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-56",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574079,
+          48.8867993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-57",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573863,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-58",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573063,
+          48.8863654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-59",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573863,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-60",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571404,
+          48.8859215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-61",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572752,
+          48.8859087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-62",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574854,
+          48.8867381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-63",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576084,
+          48.8855039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-64",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3552928425253103,
+          48.88225725739735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-65",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575413,
+          48.8854334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-66",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570283,
+          48.8855675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-67",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577759,
+          48.8831445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-68",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576536,
+          48.8855153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-69",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574873,
+          48.8854306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-70",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573537,
+          48.8859108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-71",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576316,
+          48.8850568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-72",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579769,
+          48.884434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-73",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573621,
+          48.8851922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-74",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579755,
+          48.8852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-75",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572513,
+          48.8855469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-76",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576935,
+          48.8836287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-77",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576935,
+          48.8836287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-78",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572355,
+          48.8846682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-79",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358024,
+          48.885298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-80",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572325,
+          48.8851626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-81",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357934,
+          48.88382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-82",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576115,
+          48.8848159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-83",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572325,
+          48.8851626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-84",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579398,
+          48.8868197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-85",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578601,
+          48.8871607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-86",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576115,
+          48.8848159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-87",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572969,
+          48.8851767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-88",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578357,
+          48.8875211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-89",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575503,
+          48.8846817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-90",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575279,
+          48.887163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-91",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579398,
+          48.8868197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-92",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577447,
+          48.884809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-93",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574854,
+          48.8867381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-94",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573851,
+          48.8871597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-95",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357199,
+          48.8866991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-96",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575367,
+          48.8867308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-97",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579917,
+          48.8868542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-98",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574557,
+          48.8863685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-99",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575367,
+          48.8867308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-100",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573537,
+          48.8859108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-101",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573863,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-102",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571855,
+          48.8871885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-103",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572996,
+          48.8855451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-104",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8855312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-105",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571192,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-106",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358024,
+          48.885298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-107",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576536,
+          48.8855153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-108",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572245,
+          48.8859138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-109",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357934,
+          48.88382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-110",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573532,
+          48.8855065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-111",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572996,
+          48.8855451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-112",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572752,
+          48.8859087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-113",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575866,
+          48.885062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-114",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571198,
+          48.8840623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-115",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572969,
+          48.8851767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-116",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575413,
+          48.8854334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-117",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580774,
+          48.8852931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-118",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577423,
+          48.8836158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-119",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576316,
+          48.8850568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-120",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577423,
+          48.8836158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-121",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576316,
+          48.8850568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-122",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577447,
+          48.884809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-123",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8851643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-124",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572325,
+          48.8851626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-125",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357664,
+          48.8848075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-126",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8851643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-127",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579204,
+          48.8871592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-128",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578357,
+          48.8875211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-129",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357664,
+          48.8848075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-130",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575065,
+          48.8849766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-131",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579036,
+          48.8874796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-132",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577857,
+          48.8845203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-133",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571855,
+          48.8871885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-134",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573102,
+          48.8871838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-135",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578026,
+          48.8847916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-136",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571192,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-137",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574854,
+          48.8867381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-138",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578375,
+          48.8868178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-139",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572648,
+          48.8867094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-140",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579398,
+          48.8868197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-141",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577273,
+          48.8863717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-142",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572648,
+          48.8867094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-143",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572752,
+          48.8859087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-144",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571703,
+          48.8863601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-145",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357199,
+          48.8866991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-146",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574557,
+          48.8863685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-147",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574176,
+          48.8855063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-148",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572513,
+          48.8855469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-149",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574557,
+          48.8863685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-150",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570929,
+          48.8859213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-151",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572245,
+          48.8859138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-152",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571404,
+          48.8859215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-153",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570987,
+          48.884473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-154",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574873,
+          48.8854306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-155",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574176,
+          48.8855063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-156",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576442,
+          48.8860807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-157",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570095,
+          48.8840544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-158",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575065,
+          48.8849766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-159",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576536,
+          48.8855153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-160",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580939,
+          48.8849343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-161",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577857,
+          48.8845203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-162",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575866,
+          48.885062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-163",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572996,
+          48.8855451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-164",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570441,
+          48.8850616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-165",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575866,
+          48.885062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-166",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578026,
+          48.8847916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-167",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8851643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-168",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580774,
+          48.8852931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-169",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575928,
+          48.8845061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-170",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578601,
+          48.8871607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-171",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579036,
+          48.8874796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-172",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575928,
+          48.8845061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-173",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574528,
+          48.8849819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-174",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3569199,
+          48.8846043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-175",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577356,
+          48.8845185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-176",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357199,
+          48.8866991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-177",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357255,
+          48.8871859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-178",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578357,
+          48.8875211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-179",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574739,
+          48.8871678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-180",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578375,
+          48.8868178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-181",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571192,
+          48.8863626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-182",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575279,
+          48.887163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-183",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573277,
+          48.8866978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-184",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572648,
+          48.8867094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-185",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579204,
+          48.8871592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-186",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573277,
+          48.8866978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-187",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576442,
+          48.8860807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-188",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572527,
+          48.8863562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-189",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573102,
+          48.8871838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-190",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577273,
+          48.8863717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-191",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571869,
+          48.8855312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-192",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570929,
+          48.8859213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-193",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577273,
+          48.8863717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-194",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570283,
+          48.8855675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-195",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571404,
+          48.8859215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-196",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3571703,
+          48.8863601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-197",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570438,
+          48.8844707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-198",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580774,
+          48.8852931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-199",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576084,
+          48.8855039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-200",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574015,
+          48.8858874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-201",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574528,
+          48.8849819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-202",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575065,
+          48.8849766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-203",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573532,
+          48.8855065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-204",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3577356,
+          48.8845185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-205",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580429,
+          48.8849413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-206",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3574176,
+          48.8855063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-207",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3569776,
+          48.8850649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-208",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580429,
+          48.8849413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-209",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578068,
+          48.8835193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-210",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578068,
+          48.8835193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-211",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573621,
+          48.8851922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-212",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580939,
+          48.8849343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-213",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570441,
+          48.8850616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-214",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576492,
+          48.8845112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-215",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576492,
+          48.8845112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-216",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570441,
+          48.8850616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-217",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575503,
+          48.8846817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-218",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573303,
+          48.8838438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "railway": "switch",
+        "emitterId": "em-219",
+        "marker-color": "#eee",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573102,
+          48.8871838
+        ]
+      }
+    }
+  ]
+}
